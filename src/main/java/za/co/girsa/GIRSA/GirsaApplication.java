@@ -9,4 +9,5 @@ public class GirsaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GirsaApplication.class, args);
 	}
+
 }
